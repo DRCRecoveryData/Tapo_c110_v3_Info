@@ -1,7 +1,7 @@
 ## SoC
 
-SSC335 by SigmaStar <br><br>
-Core: ARM cortex-A7 <br>
+T23 by Ingenic <br><br>
+Core: RISC-V coprocessor <br>
 Mem: 512Mb DDR2 <br><br>
 
 $( file busybox ):  ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-uClibc.so.0, stripped
@@ -18,7 +18,7 @@ $( file busybox ):  ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dyna
 
 ## Storage
 
-XMC QH64AHIG <br>
+XMC QH64DHI0 <br>
 64Mb = 8MB <br>
 
 
@@ -31,7 +31,7 @@ XMC QH64AHIG <br>
 
 ## Wireless Controller
 
-SSW101B by SigmaStar <br><br>
+WQ9001 by WUQI Microelectronics <br><br>
 
 
 ![DSC00702](https://user-images.githubusercontent.com/36998819/152682017-408dea18-2844-483b-9b05-e87b5a4d4cad.png)
